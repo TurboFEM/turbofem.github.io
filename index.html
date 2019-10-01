@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>TurboFEM: Main Page</title>
+<title>TurboFEM: TurboFEM</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -82,12 +82,13 @@ $(document).ready(function(){initNavTree('index.html','');});
 
 <div class="header">
   <div class="headertitle">
-<div class="title">TurboFEM Documentation</div>  </div>
+<div class="title">TurboFEM </div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p><a href="https://gitlab.ethz.ch/mawinkle/parallel_fem/commits/master"></a></p>
 <p>The big parallel FEM, on its way to defeat all the other FEM libraries, especially <a href="https://github.com/craffael/lehrfempp" title="A clearly inferior FEM library">Lehrfem++</a>.</p>
-<p><code>mkdir build; cd build; cmake ..; make</code></p>
+<p>## Dependencies </p><div class="fragment"><div class="line">apt-get update &amp;&amp; apt-get -y install cmake make autoconf libeigen3-dev xorg-dev libglu1-mesa-dev</div><div class="line">git submodule sync --recursive</div><div class="line">git submodule update --init --recursive</div></div><!-- fragment --><p><code>mkdir build; cd build; cmake ..; make</code></p>
+<p>The GUI is built using <code>nanogui</code>, and will run everything. It can be found inside the <code>app</code>-subdirectory.</p>
 <p>The report can be found in the <code>report</code>-subdirectory.</p>
 <p>The proposal can be found in the <code>report</code>-subdirectory. </p>
 </div></div><!-- contents -->
@@ -95,7 +96,7 @@ $(document).ready(function(){initNavTree('index.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Oct 1 2019 12:12:32 for TurboFEM by
+    <li class="footer">Generated on Tue Oct 1 2019 15:29:49 for TurboFEM by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

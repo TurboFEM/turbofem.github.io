@@ -2,9 +2,10 @@ var NAVTREE =
 [
   [ "TurboFEM", "index.html", [
     [ "Classes", "annotated.html", [
-      [ "Run", "index.html#autotoc_md0", null ],
-      [ "Report", "index.html#autotoc_md1", null ],
-      [ "Proposal", "index.html#autotoc_md2", null ],
+      [ "Run", "index.html#autotoc_md1", null ],
+      [ "GUI", "index.html#autotoc_md2", null ],
+      [ "Report", "index.html#autotoc_md3", null ],
+      [ "Proposal", "index.html#autotoc_md4", null ],
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Members", "functions.html", [
