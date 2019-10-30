@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['u',['U',['../structsparse__lu.html#acd6d9ccf5523262fb2b522e3e3ed0258',1,'sparse_lu']]],
-  ['u_5fcol_5fmaj',['U_col_maj',['../structsparse__lu.html#afdf872a726a84e30c6e134d7f5c6764c',1,'sparse_lu']]]
+  ['turbofem',['TurboFEM',['../index.html',1,'']]],
+  ['todense',['toDense',['../structhash__matrix.html#a541d869c46c8c253dcfe291864280657',1,'hash_matrix']]]
 ];

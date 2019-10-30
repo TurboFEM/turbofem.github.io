@@ -1,5 +1,6 @@
 var annotated_dup =
 [
+    [ "mpioxx", "namespacempioxx.html", "namespacempioxx" ],
     [ "hash_matrix", "structhash__matrix.html", "structhash__matrix" ],
     [ "major_index", "structmajor__index.html", null ],
     [ "major_index< col_major >", "structmajor__index_3_01col__major_01_4.html", "structmajor__index_3_01col__major_01_4" ],

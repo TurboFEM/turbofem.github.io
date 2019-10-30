@@ -1,13 +1,17 @@
 var NAVTREE =
 [
   [ "TurboFEM", "index.html", [
-    [ "Classes", "annotated.html", [
+    [ "Namespaces", null, [
       [ "Run", "index.html#autotoc_md1", null ],
       [ "GUI", "index.html#autotoc_md2", null ],
       [ "Report", "index.html#autotoc_md3", null ],
       [ "Proposal", "index.html#autotoc_md4", null ],
+      [ "Namespace List", "namespaces.html", "namespaces" ]
+    ] ],
+    [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],

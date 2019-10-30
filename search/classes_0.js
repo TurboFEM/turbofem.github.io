@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['hash_5fmatrix',['hash_matrix',['../structhash__matrix.html',1,'']]],
-  ['hash_5fmatrix_3c_20scalar_2c_20col_5fmajor_20_3e',['hash_matrix&lt; scalar, col_major &gt;',['../structhash__matrix.html',1,'']]],
-  ['hash_5fmatrix_3c_20scalar_2c_20row_5fmajor_20_3e',['hash_matrix&lt; scalar, row_major &gt;',['../structhash__matrix.html',1,'']]]
+  ['expanding_5fcircular_5fbuffer',['expanding_circular_buffer',['../structmpioxx_1_1expanding__circular__buffer.html',1,'mpioxx']]],
+  ['expanding_5fcircular_5fbuffer_3c_20char_20_3e',['expanding_circular_buffer&lt; char &gt;',['../structmpioxx_1_1expanding__circular__buffer.html',1,'mpioxx']]]
 ];

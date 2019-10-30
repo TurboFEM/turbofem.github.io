@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['coeff_5fref',['coeff_ref',['../structhash__matrix.html#a159e14ed806b0fabd054129cb9f97b75',1,'hash_matrix']]],
-  ['compute',['compute',['../structsparse__lu.html#a47e500047f47784ffe489a053a264fda',1,'sparse_lu']]]
+  ['begin',['begin',['../structmpioxx_1_1expanding__circular__buffer.html#ab1e80fd422343dc89a60aec7dc05f80a',1,'mpioxx::expanding_circular_buffer']]]
 ];
