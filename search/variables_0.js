@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['buf',['buf',['../structmpioxx_1_1mpi__streambuf.html#ace11245b9393cf1382f47b90829b7e0f',1,'mpioxx::mpi_streambuf']]]
+  ['adjacent_5ffaces_232',['adjacent_faces',['../structedge.html#a0fd8ce996e5692ca4e8b2b6787e6a3c3',1,'edge']]]
 ];

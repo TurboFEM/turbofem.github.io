@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['n',['n',['../structhash__matrix.html#ac8113fa782e17ac68099a677d636c734',1,'hash_matrix']]]
+  ['index_241',['index',['../structvertex.html#a959c2fde92e84df104dba612a6d8e0ef',1,'vertex']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sparse_5flu',['sparse_lu',['../structsparse__lu.html',1,'']]]
+  ['load_5fprovider_140',['load_provider',['../structload__provider.html',1,'']]]
 ];

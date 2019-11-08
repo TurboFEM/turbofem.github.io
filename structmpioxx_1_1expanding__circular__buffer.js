@@ -7,6 +7,7 @@ var structmpioxx_1_1expanding__circular__buffer =
     [ "push_back", "structmpioxx_1_1expanding__circular__buffer.html#a6f9f7eb4647beff8dfd1d25f198f7f54", null ],
     [ "size", "structmpioxx_1_1expanding__circular__buffer.html#ac986f88d3adcbf84e8d6601f473ed347", null ],
     [ "capacity", "structmpioxx_1_1expanding__circular__buffer.html#a1be773e5b7d3f9e8dd7fdd823d7c8d95", null ],
+    [ "clear", "structmpioxx_1_1expanding__circular__buffer.html#a629e9dea846fa12bfad6082132832492", null ],
     [ "begin", "structmpioxx_1_1expanding__circular__buffer.html#ab1e80fd422343dc89a60aec7dc05f80a", null ],
     [ "end", "structmpioxx_1_1expanding__circular__buffer.html#a98022049cb665c695c84b62073cea4f1", null ],
     [ "empty", "structmpioxx_1_1expanding__circular__buffer.html#a5705b7c5a057c4654c6d6a9c8f1d8e3f", null ]

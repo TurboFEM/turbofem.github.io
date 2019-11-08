@@ -1,10 +1,8 @@
 var searchData=
 [
-  ['major_5findex',['major_index',['../structmajor__index.html',1,'']]],
-  ['major_5findex_3c_20col_5fmajor_20_3e',['major_index&lt; col_major &gt;',['../structmajor__index_3_01col__major_01_4.html',1,'']]],
-  ['major_5findex_3c_20row_5fmajor_20_3e',['major_index&lt; row_major &gt;',['../structmajor__index_3_01row__major_01_4.html',1,'']]],
-  ['minor_5findex',['minor_index',['../structminor__index.html',1,'']]],
-  ['minor_5findex_3c_20col_5fmajor_20_3e',['minor_index&lt; col_major &gt;',['../structminor__index_3_01col__major_01_4.html',1,'']]],
-  ['minor_5findex_3c_20row_5fmajor_20_3e',['minor_index&lt; row_major &gt;',['../structminor__index_3_01row__major_01_4.html',1,'']]],
-  ['mpi_5fstreambuf',['mpi_streambuf',['../structmpioxx_1_1mpi__streambuf.html',1,'mpioxx']]]
+  ['hash_3c_20pear_3c_20t_20_3e_20_3e_135',['hash&lt; pear&lt; T &gt; &gt;',['../structstd_1_1hash_3_01pear_3_01T_01_4_01_4.html',1,'std']]],
+  ['hash_3c_20triple_3c_20t_20_3e_20_3e_136',['hash&lt; triple&lt; T &gt; &gt;',['../structstd_1_1hash_3_01triple_3_01T_01_4_01_4.html',1,'std']]],
+  ['hash_5fmatrix_137',['hash_matrix',['../structhash__matrix.html',1,'']]],
+  ['hash_5fmatrix_3c_20scalar_2c_20col_5fmajor_20_3e_138',['hash_matrix&lt; scalar, col_major &gt;',['../structhash__matrix.html',1,'']]],
+  ['hash_5fmatrix_3c_20scalar_2c_20row_5fmajor_20_3e_139',['hash_matrix&lt; scalar, row_major &gt;',['../structhash__matrix.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sparse_5flu_2ehpp',['sparse_lu.hpp',['../sparse__lu_8hpp.html',1,'']]]
+  ['providers_2ehpp_168',['providers.hpp',['../providers_8hpp.html',1,'']]]
 ];

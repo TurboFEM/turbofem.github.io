@@ -10,5 +10,6 @@ var structmpioxx_1_1mpi__streambuf =
     [ "showmanyc", "structmpioxx_1_1mpi__streambuf.html#abe476f1c9d1b6cd5243ccba741204633", null ],
     [ "pbackfail", "structmpioxx_1_1mpi__streambuf.html#ae65e2ce12ae680fc2d95e8b958380409", null ],
     [ "send_limit", "structmpioxx_1_1mpi__streambuf.html#a64e3636c3251bcbc39dd414a33b01633", null ],
+    [ "receiver", "structmpioxx_1_1mpi__streambuf.html#a48dd5a8019ee3abdf21e63ca86cb63ac", null ],
     [ "buf", "structmpioxx_1_1mpi__streambuf.html#ace11245b9393cf1382f47b90829b7e0f", null ]
 ];
